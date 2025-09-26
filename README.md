@@ -41,6 +41,6 @@ Load: Insert the cleaned/transformed data into Silver schema.
 
 Then aggregate reports in the Gold schema (top selling products, top customers, low sales).
 
-🛠️ Tools
+ Tools
 
 SQL Server
